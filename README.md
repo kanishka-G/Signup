@@ -5,10 +5,14 @@ On our dashboard there are two functionality
 - either to add an order by filling up the form.
 - and to see all the orders made by a particular user
 
-I have bult 3 POST and 1 GET API which is connected to the Mongodb database.
+We have 3 POST and 1 GET API which is connected to the Mongodb database.
+
 There is a LOGOUT functionality button on the dashboard which a user can click and kill the JWT token.
+
 All the routes will be authenticated using JWT tokens.
+
 Get Order and Add Order  - users need to be authorised in a middleware
+
 The password is encypted before sending and storing to our Database.
 
 Here is our HomePage
