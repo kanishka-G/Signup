@@ -23,7 +23,7 @@ Here is the dashboard
 ![image](https://github.com/kanishka-G/Signup/assets/74129331/fa1e6366-2a70-42b0-b48b-adf1cd2b51e8)
 
 
-Order details are fetched from the db when a get-order request is made for a particular user by provide it in the text feild.
+Order details are fetched from the db when a get-order request is made for a particular user by provide it in the text field.
 Meanwhile the loggin user cannot change his userID in the dashboard to submit a order. 
 Logout button is present on the bottom left.
 
